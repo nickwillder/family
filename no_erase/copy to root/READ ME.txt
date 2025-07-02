@@ -1,0 +1,11 @@
+Kith and Kin Pro clears the root folder of its HTML export.
+The files in here should be copied to the root, including overwriting genstart.
+You should edit genstart to include the revision date.
+You should make sure WILLDER.GED and WILLDER.TRE are up to date.
+
+As of Nov 2022, WILLDER.TRE is out of date.
+
+Once all web files are assembled here, copy the lot to S:\Documents\My Webs\! on-line\family
+                                                              or B:\My Webs\! on-line\family (it's the same thing)
+
+Then FTP from here by FileZilla.

@@ -1,0 +1,144 @@
+/* Kith and Kin Pro stylesheet  */
+
+/*  Light blue theme   */
+
+/* Colours used :
+   Body background #FFFFFF
+   Header background #D1EEFD
+   Section background #F5FCFF
+   Section border #004EEC
+   General font #000000
+   Feint font #808080
+   Section headings font #0056AE
+   Link font #04547E
+   Link hover font #167EB4
+*/
+
+
+/* Margin formats for 1,2 & 4 parameter :
+   margin: all
+   margin: top/bottom left/right
+   margin: top right bottom left                                */
+
+/*  Sets margins and padding in all browsers to the same        */
+html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset {
+    margin: 0; padding: 0; border: 0}
+
+p, h1, h2, h3, h4, h5, h6 {margin: 10px 10px 0px 10px}
+p {line-height: 120%;}
+h1, h2, h3, h4, h5, h6 {line-height: 100%;}
+ul, ol, li {margin: 10px 26px}
+
+/* ========================== */
+body {background-color: #FFFFFF; color: #000000;
+      font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+/* Link colours */
+A:link {color: #04547E; text-decoration:none}
+A:visited {color: #04547E; text-decoration:none; outline: none;}
+A:active {color: #04547E; text-decoration:none; outline: none;}
+A:hover {color: #167EB4; text-decoration:underline}
+
+/* Used in page heading div.header */
+h1 {font-size: 27px; color: #000000;}
+/* Used in section headings on family details pages */
+h2 {font-size: 21px; color: #0056AE;}
+/* Used in family details page heading for family code */
+h3 {font-size: 21px; color: #000000;}
+
+
+/* ===== Text and page formatting settings  ===================== */
+
+/* Global header appears on every page */
+div.global_head {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+                 font-size: 12px; color: #000000; text-align: left;}
+
+/* Global footer appears on every page */
+div.global_foot {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+                 font-size: 12px; color: #000000; text-align: left;}
+
+div.header {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 2px; padding-top: 0px; padding-bottom: 12px;
+            text-align: center; background-color: #D1EEFD; border-width: 1px; border-style: solid; border-color: #004EEC;}
+div.header_code {position: absolute; right: 0px; top: 0px; padding-top: 4px; padding-bottom: 10px;
+                  text-align: left;}
+/* General page body */
+div.body {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+           color: #000000; font-size: 12px; text-align: center;
+           background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+/* Footer text */
+div.footer {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;}
+p.text_footer {color: #000000; font-size: 12px; font-style: italic;}
+/* Back to genealogy start page text */
+p.text_back_link {color: #000000; font-size: 12px; margin-top: 20px; }
+img.return {vertical-align: middle; padding-top: 0px; margin-right: 10px;}
+
+/* ------ Family details pages ------ */
+div.parents {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+              background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+div.children {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+               background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+div.family {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+              background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+div.sources {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+              background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+div.indent {position: relative; margin-left: 26px;}
+/* Names text eg. parents names */
+p.text_name {color: #000000; font-size: 12px; font-weight: bold; margin-top: 25px; margin-bottom: 10px;}
+/* Names in details */
+p.text_detail_name {color: #000000; font-size: 12px;}
+/* Details/notes text */
+p.text_details {color: #000000; font-size: 12px; margin-top: 5px;}
+/* Source details text */
+p.text_source {color: #000000; font-size: 12px; margin-top: 5px; margin-left: 50px; text-indent: -40px;}
+
+/* ------ Genstart page ------ */
+div.genstart_links {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 20px; margin-bottom: 30px;
+                     padding-top: 5px; padding-bottom: 10px;}
+/* Welcome text */
+p.text_genstart {color: #000000; font-size: 14px; margin-top: 20px; text-align: center;}
+/* Email address */
+p.text_genstart_email {color: #000000; font-size: 12px;  margin-top: 5px; text-align: center;}
+/* Update date */
+p.text_genstart_date {color: #000000; font-size: 12px;  margin-top: 5px; text-align: center;}
+/* Kith and Kin Pro */
+p.text_kkprostamp {color: #808080; font-size: 10px; font-style: italic; margin-top: 40px; text-align: center;}
+
+/* ------ Timeline page ------ */
+/* Top-of-page shortcuts - Timeline and surname index/lists */
+div.shortcuts {position: relative; margin-left: 5px; margin-right: 5px; margin-top: 2px; margin-bottom: 20px; padding-top: 5px;
+               color: #000000; font-size: 10px; text-align: center;}
+div.timeline {position: relative; margin-left: 20px; margin-right: 20px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+              background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+/* Timeline database events*/
+p.text_timeline {margin-top: 2px; color: #000000; font-size: 12px;}
+/* Timeline fixed events*/
+p.text_timeline_event {margin-top: 2px; color: #808080; font-size: 12px; font-style: italic;}
+
+/* ------ Surname index and lists pages ------ */
+div.surname_index {position: relative; margin-left: 20px; margin-right: 20px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+                   background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+div.surname_list {position: relative; margin-left: 20px; margin-right: 20px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+                  background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+p.text_surname_index {margin-top: 2px; color: #000000; font-size: 12px;}
+p.text_surname_list {margin-top: 2px; color: #000000; font-size: 12px;}
+
+/* ------ Source document / repository details pages ------ */
+div.source_docs {position: relative; margin-left: 20px; margin-right: 20px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+                 background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+div.source_repos {position: relative; margin-left: 20px; margin-right: 20px; margin-top: 5px; padding-top: 5px; padding-bottom: 10px;
+                  background-color: #F5FCFF; border-width: 1px; border-style: solid; border-color: #004EEC;}
+p.text_docs {margin-top: 8px; margin-left: 50px; text-indent: -40px; color: #000000; font-size: 12px;}
+.text_docs_name {font-weight: bold;}
+p.text_repos {margin-top: 8px; margin-left: 50px; text-indent: -40px; color: #000000; font-size: 12px;}
+.text_repos_name {font-weight: bold;}
+
+
+/* ===== Image thumbnails ===================== */
+
+/* Image tables */
+table.thumbnails td {padding: 5px; text-align: center;}
+table.gallery {margin-left:auto; margin-right:auto;}
+table.gallery td {padding: 5px; text-align: center;}
+
+/* Image text */
+p.text_thumbnail {color: #000000; font-size: 10px; margin-top: 5px;}

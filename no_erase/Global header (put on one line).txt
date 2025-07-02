@@ -1,0 +1,29 @@
+
+<p>
+|&nbsp;<a href="genstart.htm">HOME</a>&nbsp;|&nbsp;&nbsp;&nbsp;
+|&nbsp;<a href="surnlist.htm">INDEX&nbsp;OF&nbsp;SURNAMES</a>&nbsp;|&nbsp;&nbsp;&nbsp;
+|&nbsp;<a href="timeline.htm">CHRONOLOGICAL&nbsp;INDEX</a>&nbsp;|&nbsp;&nbsp;&nbsp;
+|&nbsp;<a href="no_erase/add.html">CONTRIBUTE&nbsp;DATA</a>&nbsp;|</font><font face="Arial" size="-2"><br>
+|&nbsp;<a href="no_erase/willder.ged">DOWNLOAD&nbsp;GEDCOM</a>&nbsp;|&nbsp;&nbsp;&nbsp;
+|&nbsp;<a href="no_erase/WILLDER.TRE">DOWNLOAD&nbsp;KITH&nbsp;&amp;&nbsp;KIN&nbsp;DATA</a>&nbsp;|&nbsp;&nbsp;&nbsp;
+|&nbsp;<a href="no_erase/kithkin31.zip">DOWNLOAD&nbsp;KITH&nbsp;&amp;&nbsp;KIN&nbsp;PROGRAM&nbsp;(ZIP)</a>&nbsp;|&nbsp;&nbsp;&nbsp;
+|&nbsp;<a href="http://www.spansoft.org/">VISIT&nbsp;SPANSOFT</a>&nbsp;|</FONT></b>
+</p>
+<hr class="NickHeaderRule">
+
+
+<table border="0" cellpadding="20" cellspacing="0" align="center">
+  <tr>
+    <td><a href="no_erase/arms.html">
+    <img src="no_erase/crest(s).png" width="139" height="180" border="0" alt="Willder/Wilder family crest"></a></td>
+    <td align="center"><h1>Genealogical data for the family<br><br>WILLDER</h1></td>
+  </tr>
+</table>
+
+
+Over 1000 individuals in nearly 400 families dating from 1310 to the present day with roots in Derby, England.
+All persons are listed in their families together with their brothers and sisters. If the person formed a family there is a link to his/her new family next to him/her. Thus you can move forward in time.
+If the parents at the head of the family are known children of an earlier family, the parent is a link to that parent's earlier family. Thus you can move back in time.
+
+This site is also for exchanging information about the genealogy of the Willder family name. It was inspired by Ray Willder of Nantwich, Cheshire, UK who has, over 60 years, rigorously researched and catalogued over a thousand Willders dating back to around 1500. Sadly Ray died in December 2016. I have transcribed a good deal of the basic data into computer readable form so that Ray's research can live forever.
+There is a standard computer file format for genealogical information called GEDCOM. Whilst family tree and genealogical computer programs store their data in their own proprietary format, all can import and export GEDCOM data. Such programs are readily available. The current Willder GEDCOM file can be downloaded (see link at top of page). Even if you do not have access to a genealogical program the file can be read with a simple text editor.
